@@ -6,11 +6,12 @@
 
 
 
-วิธีใช้ตัวแปร
+## วิธีใช้ตัวแปร
 ก่อนใช้งานคัวแปรต้องประกาศตัวแปรก่อนโดยรูปแบบการประกาศตัวแปรมีดังนี้
 (ระดับการเข้าถึง) (option) <ชื่อประเภทของตัวแปร> <ชื่อตัวแปร> (= ค่าเริ่มต้น);
 
 ตัวอย่าง
+ c#
 bool running;
 public string PlayerName = "Mr.7";
 private int age =18;
@@ -18,7 +19,7 @@ public float height = 169.5f;
 public int moneyInMyPocket = 120;
 public static readonly float gravityForce = 9.8f
 Public const float GravityForce = 9.8f;
-
+'''
 	• ข้อสังเกตุ คำสงวนที่ใช้ประกาศตัวแปร และชื่อประเภทตัวแปรเป็นตัวเล็กทั่งหมด
 
 ประเภทของตัวแปรพื้นฐาน (primitive variable)
