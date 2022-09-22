@@ -46,7 +46,7 @@ public int MoneyInMyPocket = 120;
 public static readonly float GravityForce = 9.8f;
 public const float Pi = 3.14f;
 ```
-	• ข้อสังเกตุ คำสงวนที่ใช้ประกาศตัวแปร และชื่อประเภทตัวแปรเป็นตัวเล็กทั้งหมด
+> **ข้อสังเกตุ** คำสงวนที่ใช้ประกาศตัวแปร และชื่อประเภทตัวแปรเป็นตัวเล็กทั้งหมด
 
 
 # ประเภทของตัวแปรพื้นฐาน (primitive variable)
